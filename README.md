@@ -4461,7 +4461,7 @@ EXTRACURRICULARS<o:p></o:p></span></b></p>
  none;mso-border-insidev:none'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=636 colspan=2 valign=top style='width:477.25pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal><b><span style='font-size:12.0pt'>Deans List</span></b><span
+  <p class=MsoNormal><b><span style='font-size:12.0pt'>Dean's List</span></b><span
   style='font-size:12.0pt'> (<i>Fall 2022, Spring 2023, Fall 2023, Spring 2024</i>)<b
   style='mso-bidi-font-weight:normal'><u><span style='text-transform:uppercase'><o:p></o:p></span></u></b></span></p>
   </td>
